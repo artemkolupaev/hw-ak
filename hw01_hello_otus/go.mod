@@ -1,4 +1,4 @@
-module github.com/artemkolupaev/hw_ak/hw01_hello_otus
+module github.com/artemkolupaev/hw-ak/hw01_hello_otus
 
 go 1.16
 
